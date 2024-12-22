@@ -3,7 +3,7 @@
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761167999e1d52036df7e4cbff0363ca71071cb16ab2&amp;rid=giphy.gif&amp;ct=g" alt="gif" style="width: 500px; height: 375px;">
 
 <p>
-I'm a Frontend Engineer who loves new challenges. I try to improve myself and I am always open to innovations. I am currently working as a Frontend Developer at Diatics.
+I'm a Frontend Engineer who loves new challenges. I try to improve myself and I am always open to innovations. I am currently working as a Frontend Developer at Akinon.
 <p/>
 
 ### Contact with me
